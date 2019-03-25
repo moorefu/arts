@@ -4,7 +4,7 @@
 
 ## Algorithm
 
-> 开始之前先推荐一下LeetCode刷题神器 [vscode-leetcode](https://time.geekbang.org/column/article/85839) ，见名知义，这是一个vscode插件，具体用法见链接文档。
+> 开始之前先推荐一下LeetCode刷题神器 [vscode-leetcode](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode) ，见名知义，这是一个vscode插件，具体用法见链接文档。
 
 LeetCode20，这是一道难度为easy的题目，给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
 
